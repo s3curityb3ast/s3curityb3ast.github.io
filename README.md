@@ -2,7 +2,7 @@
 
 This website will mainly for manageing advisories which i create on day to day basis and for My CVE Database.
 
-|                                                                                                                                                                                              | 
+                                                                                                                                                                                               
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| 
 | | CVE ID         | VENDOR                            | ISSUE                                                                              | Reference                                      | | 
 | |----------------|-----------------------------------|------------------------------------------------------------------------------------|------------------------------------------------| | 
@@ -20,6 +20,4 @@ This website will mainly for manageing advisories which i create on day to day b
 | | CVE-2019-7385  | Raisecom                          | Authenticated RCE                                                                  | KSA-DEV-006                                    | | 
 | | CVE-2019-7386  | NOKIA & HDM & KAI                 | Buffer overflow                                                                    | https://s3curityb3ast.github.io/KSA-Dev-007.md | | 
 | | CVE-2019-7387  | Systorme                          | LFI                                                                                | https://s3curityb3ast.github.io/KSA-Dev-004.md | | 
-
-
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
