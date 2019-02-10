@@ -11,8 +11,8 @@ This website will mainly for manageing advisories which i create on day to day b
 | CVE-2016-9261 	|Tenable            | LCE XSS    | https://www.tenable.com/security/tns-2016-18   | 
 | CVE-2016-7103 	|Tenable            | Security Centre XSS | https://www.tenable.com/security/tns-2016-19   | 
 | CVE-2016-7103		|Tenable            | PVS XSS | https://www.tenable.com/security/tns-2016-20   | 
-| CVE-2018-19525	|Systorme           | Account takeover| https://s3curityb3ast.github.io/KSA-Dev-001.md | 
-| CVE-2018-19524 	|Skyworth           | Stack Overflow in Gpon Devices | https://s3curityb3ast.github.io/KSA-Dev-002.md | 
+| CVE-2018-19524 	|Skyworth           | Stack Overflow in Gpon Devices | https://s3curityb3ast.github.io/KSA-Dev-001.md | 
+| CVE-2018-19525	|Systorme           | Account takeover| https://s3curityb3ast.github.io/KSA-Dev-002.md | 
 | CVE-2019-7383  	|Systorme           | RCE via shell upload | https://s3curityb3ast.github.io/KSA-Dev-003.md | 
 | CVE-2019-7384  	|Raisecom           | Auth RCE | https://s3curityb3ast.github.io/KSA-Dev-005.md | 
 | CVE-2019-7385  	|Raisecom           | Auth RCE| https://s3curityb3ast.github.io/KSA-Dev-006.md | 
