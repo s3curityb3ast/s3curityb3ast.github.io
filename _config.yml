@@ -1,4 +1,10 @@
  jekyll-theme-architect
- # Google Analytics
-google_analytics: UA-55133187-2
 
+theme: jekyll-theme-cayman
+title: s3curityb3ast.github.io
+description: Security Advisiories
+url: https://s3curityb3ast.github.io
+author: kaustubh {adwad
+plugins:
+  - jekyll-seo-tag
+google_analytics: UA-55133187-2
