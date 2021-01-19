@@ -14,8 +14,8 @@ This website will mainly for manageing advisories which i create on day to day b
 | CVE-2018-19524 	|Skyworth           | Stack Overflow in Gpon Devices | https://s3curityb3ast.github.io/KSA-Dev-001.md | 
 | CVE-2018-19525	|Systorme           | Account takeover| https://s3curityb3ast.github.io/KSA-Dev-002.md | 
 | CVE-2019-7383  	|Systorme           | RCE via shell upload | https://s3curityb3ast.github.io/KSA-Dev-003.md | 
+| CVE-2019-7387  	|Systorme           | LFI  | https://s3curityb3ast.github.io/KSA-Dev-004.md | 
 | CVE-2019-7384  	|Raisecom           | Auth RCE | https://s3curityb3ast.github.io/KSA-Dev-005.md | 
 | CVE-2019-7385  	|Raisecom           | Auth RCE| https://s3curityb3ast.github.io/KSA-Dev-006.md | 
 | CVE-2019-7386  	|NOKIA & HDM & KAI  | Buffer overflow | https://s3curityb3ast.github.io/KSA-Dev-007.md | 
-| CVE-2019-7387  	|Systorme           | LFI  | https://s3curityb3ast.github.io/KSA-Dev-004.md | 
 
