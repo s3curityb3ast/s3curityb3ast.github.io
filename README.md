@@ -20,3 +20,4 @@ This website will mainly for manageing advisories which i create on day to day b
 | CVE-2019-7386  	|NOKIA & HDM & KAI  | Buffer overflow | https://s3curityb3ast.github.io/KSA-Dev-007.md | 
 | Yet-not-Assign	|UniBox 	    |XSRF | https://s3curityb3ast.github.io/KSA-Dev-008.txt |
 | Yet-Not-Assign	|Unibox		    | Auth RCE | https://s3curityb3ast.github.io/KSA-Dev-009.txt|
+| CVE-2021-3275  	|TP Link 	    | Unauth-XSRF | https://s3curityb3ast.github.io/KSA-Dev-010.md | 
